@@ -20,6 +20,6 @@
 /spring/*.pid
 
 # Ignore idea settings.
-/.idea
 .idea/*
-/.settings
+/.idea/workspace.xml
+/.idea/tasks.xml
